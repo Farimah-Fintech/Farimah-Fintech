@@ -3,7 +3,7 @@ import { NavLink, useLocation } from "react-router-dom";
 import { items } from "../../../data/sidebar-menu-items";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { Button } from "antd";
-import fintechLogo from "../../../assets/images/logos/fintechGate-logo.png";
+import fintechLogo from "../../../assets/images/logos/logo.png";
 
 export const Sidebar = () => {
   const [broken, setBroken] = useState(false);

@@ -6,7 +6,7 @@ import { UserProfile } from "../../user-profile";
 // import { LuClipboardCheck } from "react-icons/lu";
 // import { RiSearchLine } from "react-icons/ri";
 import { Theme } from "../../theme";
-import logo from "../../../assets/images/logos/fintechGate-logo.png";
+import logo from "../../../assets/images/logos/logo.png";
 
 export const PanelHeader = () => {
   return (
